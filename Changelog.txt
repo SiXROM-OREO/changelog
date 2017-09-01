@@ -1,0 +1,78 @@
+==========================
+=====CHANGELOG RC-1======
+==========================
+-Revision 8.0.0 r4 (OPR6.170623)
+-SystemUI: add quick settings pull down with one finger
+-Double tap to sleep on lockscreen
+-Remove unused drawables we don't need
+-Disable automatic update gracefully
+-Speed a couple more things up
+-Set scrolling to 0.006f
+-Don't crash for too long baseband version
+-Remove unnecessary videos
+-Delete media tests
+-Fix mounting of non-FAT formatted SD cards
+-Option to use volume keys to control media volume anytime
+-Allow to swap volume buttons rotation based
+-Add navbar double tap to sleep
+-PowerMenu: add a toggleable recovery/bootloader action
+-NightLight: Allow lower temperatures
+-Add Pixel navbar icons
+-Enable SysUI tuner by default
+
+==========================
+=====ROM FEATURES========
+==========================
+-Revision 8.0.0 r4 (OPR6.170623)
+-Package name in "App info"
+-ROM Logo in About Phone
+-SuperSU or Magisk
+-No Forced Encryption ( Kernel )
+-Disable Tether checks
+-Oreo six black bootanimation
+-Pixel stock navigation bar icons
+-Pixel system colors
+-Pixel stock sounds
+-AOSP Messaging
+-AOSP Camera
+-Volume unlink notification
+-Volume Down enter do not disturb
+-Volume Up exit do not disturb
+-Doze mode enabled
+-LED multi color notifications
+-Scrolling cache improvements
+-Remove useless pngs and videos files
+-Build prop tweaks
+-Tons of fixes 
+-AND MORE!!!
+
+==========================
+===CREDITS AND THANKS====
+==========================
+-Beanstown106
+-Daveyannihilation
+-Vic Perriera
+-Nobe1976
+-Ezio84
+-MikeyMopar
+-REV3NTECH
+-David Hayes
+-Dustin Rinne
+-Randall Rushing
+-Wrongway213
+-Giovanni Bozzano
+-Dwitherell
+-Grarak
+-Yoinx
+-Nathan Chancellor
+-PureNexus Project
+-BlackBird Kernel
+-Team BlackOut
+-Flash-ROM
+-ABC ROM
+-Desolation ROM
+-Unholy ROM
+-UBER ROM
+-Omni ROM
+-Benzo ROM
+-Google
