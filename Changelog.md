@@ -6,12 +6,30 @@
 ### Thank You and Enjoy!!!
 
 ### CHANGES RC1
+- Revision 8.0.0 r4 (OPR6.170623)
 - Settings: Show link to Google Play
 - Settings: Enable gesture settings
 - Settings: Allow sorting applications by size
 - Settings: Improve app info screen
 - Settings: Add SiXSettings dashboard
 - Settings: Correctly align cursor
+- Base: Add quick settings pull down with one finger
+- Base: Double tap to sleep on lockscreen
+- Base: Remove unused drawables we don't need
+- Base: Disable automatic update gracefully
+- Base: Speed a couple more things up
+- Base: Set scrolling to 0.006f
+- Base: Don't crash for too long baseband version
+- Base: Remove unnecessary videos
+- Base: Delete media tests
+- Base: Fix mounting of non-FAT formatted SD cards
+- Base: Option to use volume keys to control media volume anytime
+- Base: Allow to swap volume buttons rotation based
+- Base: Add navbar double tap to sleep
+- Base: PowerMenu: add a toggleable recovery/bootloader action
+- Base: NightLight: Allow lower temperatures
+- Base: Add Pixel navbar icons
+- Base: Enable SysUI tuner by default
 
 ### BUGS
 - Bluetooth not working

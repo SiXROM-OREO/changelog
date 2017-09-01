@@ -2,6 +2,23 @@
 =====CHANGELOG RC-1======
 ==========================
 -Revision 8.0.0 r4 (OPR6.170623)
+-SystemUI: add quick settings pull down with one finger
+-Double tap to sleep on lockscreen
+-Remove unused drawables we don't need
+-Disable automatic update gracefully
+-Speed a couple more things up
+-Set scrolling to 0.006f
+-Don't crash for too long baseband version
+-Remove unnecessary videos
+-Delete media tests
+-Fix mounting of non-FAT formatted SD cards
+-Option to use volume keys to control media volume anytime
+-Allow to swap volume buttons rotation based
+-Add navbar double tap to sleep
+-PowerMenu: add a toggleable recovery/bootloader action
+-NightLight: Allow lower temperatures
+-Add Pixel navbar icons
+-Enable SysUI tuner by default
 
 ==========================
 =====ROM FEATURES========
