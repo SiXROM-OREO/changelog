@@ -1,22 +1,39 @@
 ==========================
-=====CHANGELOG RC-4======
+=====CHANGELOG v1.0======
 ==========================
 - Fixed Bluetooth
+- Fix KernelWakelockReader stop the panic
+- Fix ParcelFileDescriptor stop the panic
+- Fix Forceclose when entering navbar options
+- Fix Forceclose when entering recents options
 - Add Alarms blocker
 - Add Recents Clear All Button
 - Add Expanded Desktop
-- Update default material popup animations
-- Fix KernelWakelockReader stop the panic
-- Fix ParcelFileDescriptor stop the panic
+- Add font size in 5% steps from 80% to 130%
 - Add Double tap to sleep on statusbar
-- Enable battery percentage in statusbar by default
+- Add Prebuilt Google wallpaper picker
 - Add Adb over Network and QS tile
-- Add CPU info overlay
+- Add Less intrusive heads up option
+- Add Lockscreen quick unlock
+- Add Scramble pin layout when unlocking
+- Add Local changelog to about phone
+- Remove double Font & Display size settings
+- Remove Dashboard suggestions and conditions
+- Enable battery percentage in statusbar by default
+- Update default material popup animations
+- Move SystemUI Tuner to SiX Settings
+- Updated Gapps
+- Build all Theme Overlays
+- *Orange 
+- *Indigo
+- *Amber
+- *Purple
+- *Pink
+- *Green
 
 ==========================
 ======BUGS/BROKEN========
 ==========================
-- NOT SURE ATM
 
 ==========================
 =====ROM FEATURES========

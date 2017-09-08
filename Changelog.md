@@ -1,25 +1,42 @@
 # SiXROM Changelog
-<center><img src="https://lh3.googleusercontent.com/-Rm8-kc-QUl8/WRs1h_QWlOI/AAAAAAABZNk/Zg5HQvh8ojsY_vHJsLyrs4tSL8nmH10TwCJoC/w530-h335-p-rw/Untitled9966op.png" height="60%" width="60%;"/></center>
+<center><img src="https://lh3.googleusercontent.com/-eDjTo5PZfGE/AAAAAAAAAAI/AAAAAAAAABw/HAUDdfWoxHc/w360-h203-p-rw/photo.jpg" height="60%" width="60%;"/></center>
 
 ### NOTE: This is my personal rom for the Nexus 6, and will update it on my free time.
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
-### CHANGES RC4
+### CHANGES v1.0
 - Fixed Bluetooth
+- Fix KernelWakelockReader stop the panic
+- Fix ParcelFileDescriptor stop the panic
+- Fix Forceclose when entering navbar options
+- Fix Forceclose when entering recents options
 - Add Alarms blocker
 - Add Recents Clear All Button
 - Add Expanded Desktop
-- Update default material popup animations
-- Fix KernelWakelockReader stop the panic
-- Fix ParcelFileDescriptor stop the panic
+- Add font size in 5% steps from 80% to 130%
 - Add Double tap to sleep on statusbar
-- Enable battery percentage in statusbar by default
+- Add Prebuilt Google wallpaper picker
 - Add Adb over Network and QS tile
-- Add CPU info overlay
+- Add Less intrusive heads up option
+- Add Lockscreen quick unlock
+- Add Scramble pin layout when unlocking
+- Add Local changelog to about phone
+- Remove double Font & Display size settings
+- Remove Dashboard suggestions and conditions
+- Enable battery percentage in statusbar by default
+- Update default material popup animations
+- Move SystemUI Tuner to SiX Settings
+- Updated Gapps
+- Build all Theme Overlays
+- *Orange 
+- *Indigo
+- *Amber
+- *Purple
+- *Pink
+- *Green
 
 ### BUGS
-- NOT SURE ATM
 
 ### ROM FEATURES
 - Revision 8.0.0 r4 (OPR6.170623)
