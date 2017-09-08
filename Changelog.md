@@ -5,38 +5,72 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
-### CHANGES RC1
-- Revision 8.0.0 r4 (OPR6.170623)
-- Settings: Show link to Google Play
-- Settings: Enable gesture settings
-- Settings: Allow sorting applications by size
-- Settings: Improve app info screen
-- Settings: Add SiXSettings dashboard
-- Settings: Correctly align cursor
-- Base: Add quick settings pull down with one finger
-- Base: Double tap to sleep on lockscreen
-- Base: Remove unused drawables we don't need
-- Base: Disable automatic update gracefully
-- Base: Speed a couple more things up
-- Base: Set scrolling to 0.006f
-- Base: Don't crash for too long baseband version
-- Base: Remove unnecessary videos
-- Base: Delete media tests
-- Base: Fix mounting of non-FAT formatted SD cards
-- Base: Option to use volume keys to control media volume anytime
-- Base: Allow to swap volume buttons rotation based
-- Base: Add navbar double tap to sleep
-- Base: PowerMenu: add a toggleable recovery/bootloader action
-- Base: NightLight: Allow lower temperatures
-- Base: Add Pixel navbar icons
-- Base: Enable SysUI tuner by default
+### CHANGES RC4
+- Fixed Bluetooth
+- Add Alarms blocker
+- Add Recents Clear All Button
+- Add Expanded Desktop
+- Update default material popup animations
+- Fix KernelWakelockReader stop the panic
+- Fix ParcelFileDescriptor stop the panic
+- Add Double tap to sleep on statusbar
+- Enable battery percentage in statusbar by default
+- Add Adb over Network and QS tile
+- Add CPU info overlay
 
 ### BUGS
-- Bluetooth not working
-- NFC not working ( Bluetooth related )
+- NOT SURE ATM
 
 ### ROM FEATURES
-- Revision 8.0.0 r4
+- Revision 8.0.0 r4 (OPR6.170623)
+- ROM Logo in About Phone
+- SuperSU or Magisk
+- No Forced Encryption ( Kernel )
+- Disable Tether checks
+- Oreo six bootanimation
+- Pixel stock navigation bar icons
+- Pixel system colors
+- Pixel stock sounds
+- AOSP Messaging
+- AOSP Camera
+- Eleven Music
+- Show link to Google Play
+- Gesture settings
+- Allow sorting applications by size
+- Improve app info screen
+- SiXSettings dashboard
+- Correctly align cursor
+- Quick settings pull down with one finger
+- Double tap to sleep on lockscreen
+- Remove unused drawables
+- Disable automatic update
+- Remove unnecessary videos
+- Option to use volume keys to control media volume anytime
+- Allow to swap volume buttons rotation based
+- Navbar double tap to sleep
+- Advanced Power Menu
+- NightLight lower temperatures
+- Enable SysUI tuner by default
+- Disable qs footer warnings 
+- Toggle to change USB MTP/STORAGE default
+- Toast icon switch
+- Battery light customization
+- Launch music player on headset/bt connect
+- Doubletap or longpress power to toggle flashlight
+- Allow to customize max SMS per minute limit
+- Disable Lockscreen Media Art
+- Volume rocker music control
+- PhoneInfo in About Phone > status
+- Additional Battery saver steps
+- Set custom brightness for ambient display and liftToWwake
+- Night Light brightness mode options
+- Increase QS columns to 4
+- Add/remove QS with one click
+- Auto hiding IME cursors as left/right nav buttons
+- Display bluetooth battery status when available
+- Build prop tweaks
+- Tons of fixes 
+- AND MORE!!!
 
 ### CREDITS AND THANKS
 - Beanstown106

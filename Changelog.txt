@@ -1,50 +1,75 @@
 ==========================
-=====CHANGELOG RC-1======
+=====CHANGELOG RC-4======
 ==========================
--Revision 8.0.0 r4 (OPR6.170623)
--SystemUI: add quick settings pull down with one finger
--Double tap to sleep on lockscreen
--Remove unused drawables we don't need
--Disable automatic update gracefully
--Speed a couple more things up
--Set scrolling to 0.006f
--Don't crash for too long baseband version
--Remove unnecessary videos
--Delete media tests
--Fix mounting of non-FAT formatted SD cards
--Option to use volume keys to control media volume anytime
--Allow to swap volume buttons rotation based
--Add navbar double tap to sleep
--PowerMenu: add a toggleable recovery/bootloader action
--NightLight: Allow lower temperatures
--Add Pixel navbar icons
--Enable SysUI tuner by default
+- Fixed Bluetooth
+- Add Alarms blocker
+- Add Recents Clear All Button
+- Add Expanded Desktop
+- Update default material popup animations
+- Fix KernelWakelockReader stop the panic
+- Fix ParcelFileDescriptor stop the panic
+- Add Double tap to sleep on statusbar
+- Enable battery percentage in statusbar by default
+- Add Adb over Network and QS tile
+- Add CPU info overlay
+
+==========================
+======BUGS/BROKEN========
+==========================
+- NOT SURE ATM
 
 ==========================
 =====ROM FEATURES========
 ==========================
--Revision 8.0.0 r4 (OPR6.170623)
--Package name in "App info"
--ROM Logo in About Phone
--SuperSU or Magisk
--No Forced Encryption ( Kernel )
--Disable Tether checks
--Oreo six black bootanimation
--Pixel stock navigation bar icons
--Pixel system colors
--Pixel stock sounds
--AOSP Messaging
--AOSP Camera
--Volume unlink notification
--Volume Down enter do not disturb
--Volume Up exit do not disturb
--Doze mode enabled
--LED multi color notifications
--Scrolling cache improvements
--Remove useless pngs and videos files
--Build prop tweaks
--Tons of fixes 
--AND MORE!!!
+- Revision 8.0.0 r4 (OPR6.170623)
+- ROM Logo in About Phone
+- SuperSU or Magisk
+- No Forced Encryption ( Kernel )
+- Disable Tether checks
+- Oreo six bootanimation
+- Pixel stock navigation bar icons
+- Pixel system colors
+- Pixel stock sounds
+- AOSP Messaging
+- AOSP Camera
+- Eleven Music
+- Show link to Google Play
+- Gesture settings
+- Allow sorting applications by size
+- Improve app info screen
+- SiXSettings dashboard
+- Correctly align cursor
+- Quick settings pull down with one finger
+- Double tap to sleep on lockscreen
+- Remove unused drawables
+- Disable automatic update
+- Remove unnecessary videos
+- Option to use volume keys to control media volume anytime
+- Allow to swap volume buttons rotation based
+- Navbar double tap to sleep
+- Advanced Power Menu
+- NightLight lower temperatures
+- Enable SysUI tuner by default
+- Disable qs footer warnings 
+- Toggle to change USB MTP/STORAGE default
+- Toast icon switch
+- Battery light customization
+- Launch music player on headset/bt connect
+- Doubletap or longpress power to toggle flashlight
+- Allow to customize max SMS per minute limit
+- Disable Lockscreen Media Art
+- Volume rocker music control
+- PhoneInfo in About Phone > status
+- Additional Battery saver steps
+- Set custom brightness for ambient display and liftToWwake
+- Night Light brightness mode options
+- Increase QS columns to 4
+- Add/remove QS with one click
+- Auto hiding IME cursors as left/right nav buttons
+- Display bluetooth battery status when available
+- Build prop tweaks
+- Tons of fixes 
+- AND MORE!!!
 
 ==========================
 ===CREDITS AND THANKS====
