@@ -5,6 +5,29 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.1
+- Update to 8.0.0 r11 OPR6.170623.017
+- Add Show volume panel tile to QS
+- Add Sound tile to Quick Settings
+- Add PiP tile
+- Add Ambient-LiftToWake tile
+- Add Partial/full screenshot QS tile
+- Add Caffeine qs tile
+- Add Hide power menu on secure lockscreen
+- Add Lockscreen quick unlock
+- Add Lockscreen Charging info
+- Add Launch Expanded Desktop to SiXSettings
+- Add Dialer auto proximity speakerphone
+- Add Make ringtone audio focus customizable
+- Ask for pin when tapping Data/airplane tiles on secure lockscreen
+- Add QS titles for tiles visibility
+- Add Status network traffic
+- Add Wake on plug
+- Add WakelockBlocker
+- Change hyperlinks
+- Move device themes fragment higher
+- Enable notifications led light by default
+
 ### CHANGES v1.0
 - Fixed Bluetooth
 - Fix KernelWakelockReader stop the panic
@@ -85,9 +108,19 @@
 - Add/remove QS with one click
 - Auto hiding IME cursors as left/right nav buttons
 - Display bluetooth battery status when available
+- Alarms  blocker
+- Recents Clear All Button
+- Expanded Desktop
+- Font size in 5% steps from 80% to 130%
+- Adb over Network and QS tile
+- Less intrusive heads up option
+- Lockscreen quick unlock
+- Scramble pin layout when unlocking
+- Local changelog in about phone
 - Build prop tweaks
 - Tons of fixes 
 - AND MORE!!!
+
 
 ### CREDITS AND THANKS
 - Beanstown106
