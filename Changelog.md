@@ -5,6 +5,20 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.2
+- Fix Hotspot tethering
+- Add quickly open Running Services from QS panel
+- Add Support recents task locking
+- Add Option to disable auto brightness icon in slider
+- Add Auto brightness toggle to Quick Settings
+- Add customize notification led light
+- Add Kill any app from recents panel in a safe way
+- Use LineageOS implementation of liblights
+- Misc changes to SiX Settings
+- QS auto brightness toggle rework
+- Speed up Recents show additional button delay
+- Change power save mode color to sexy red
+
 ### CHANGES v1.1
 - Update to 8.0.0 r11 OPR6.170623.017
 - Add Show volume panel tile to QS
