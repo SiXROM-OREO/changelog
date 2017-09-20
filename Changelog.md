@@ -5,6 +5,29 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.3
+- Update to 8.0.0 r12
+- Add option to disable scrolling cache
+- Add XuiMod Toast Animations
+- Add AOKP custom system animations
+- Add Notification light during DND option
+- Add Wi-Fi Auto-connect support
+- Add Unlink notification volume
+- Add CPU info overlay
+- Add Expanded Desktop QS Tile
+- Add Sync QS Tile
+- Add AlwaysOnDisplay switch to display settings
+- Enable Round App Icons
+- Enable Three icon switching within QS DND tile
+- Change Recents fab icon
+- Fix race condition when writing UidState of appops
+- Reporting FULL_WAKE_LOCK to battery stats
+- Avoid race condition during grayscale animation of QS tile
+- PiP tile launch settings when long-press
+- Show correct status when Auto-connect is off
+- Enable Dessert Cake dream
+- Misc fixes
+
 ### CHANGES v1.2
 - Fix Hotspot tethering
 - Add quickly open Running Services from QS panel

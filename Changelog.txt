@@ -1,4 +1,29 @@
 ==========================
+=====CHANGELOG v1.3======
+==========================
+- Update to 8.0.0 r12
+- Add option to disable scrolling cache
+- Add XuiMod Toast Animations
+- Add AOKP custom system animations
+- Add Notification light during DND option
+- Add Wi-Fi Auto-connect support
+- Add Unlink notification volume
+- Add CPU info overlay
+- Add Expanded Desktop QS Tile
+- Add Sync QS Tile
+- Add AlwaysOnDisplay switch to display settings
+- Enable Round App Icons
+- Enable Three icon switching within QS DND tile
+- Change Recents fab icon
+- Fix race condition when writing UidState of appops
+- Reporting FULL_WAKE_LOCK to battery stats
+- Avoid race condition during grayscale animation of QS tile
+- PiP tile launch settings when long-press
+- Show correct status when Auto-connect is off
+- Enable Dessert Cake dream
+- Misc fixes
+
+==========================
 =====CHANGELOG v1.2======
 ==========================
 - Fix Hotspot tethering
@@ -75,11 +100,12 @@
 ==========================
 ======BUGS/BROKEN========
 ==========================
+- NFC wont stay enabled
 
 ==========================
 =====ROM FEATURES========
 ==========================
-- Revision 8.0.0 r4 (OPR6.170623)
+- Revision 8.0.0 r11 (OPR6)
 - ROM Logo in About Phone
 - SuperSU or Magisk
 - No Forced Encryption ( Kernel )
