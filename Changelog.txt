@@ -1,4 +1,29 @@
 ==========================
+=====CHANGELOG v1.4======
+==========================
+- Fix Bluetooth Doze while screen off
+- Fix Notification lights blinking/pulse
+- Fix AddAccountSettings memory leak
+- Fix crash issue when multi-window on WifiCallingSettings
+- Fix Default apps settings disappear when switching to secondary user
+- Fix NPE crash in UsageAccessDetails
+- Fix permissons for ContactsProvider2
+- Fix Google Calendar FC
+- Fix Fi permissions
+- Fix Android 8.0 GApps permisions which were causing F/C
+- Add option to hide the navigation bar
+- Add NavBar tile
+- Add Vibrate on plug
+- Add Zen option to refresh switch state on disabled/enabled
+- Update headphones statusbar icon
+- Update Substratum to v852
+- Remove some device themes ( get from six center )
+- Less annoying heads up code fixes and improvements
+- Camera: Don't throw exceptions when value pairs have spaces
+- Optimised hwui rounded corners shader
+- Misc fixes and cleanup
+
+==========================
 =====CHANGELOG v1.3======
 ==========================
 - Update to 8.0.0 r12
