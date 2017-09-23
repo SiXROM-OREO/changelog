@@ -1,4 +1,58 @@
 ==========================
+=====CHANGELOG v1.4======
+==========================
+- Fix Bluetooth Doze while screen off
+- Fix Notification lights blinking/pulse
+- Fix AddAccountSettings memory leak
+- Fix crash issue when multi-window on WifiCallingSettings
+- Fix Default apps settings disappear when switching to secondary user
+- Fix NPE crash in UsageAccessDetails
+- Themes: Build ThemerInterfacer
+- Themes: StrictMode and files under /data/system/theme/
+- Themes: Hold "volume up" during boot to disable all overlays
+- Themes: Force authorize all calling packages by Masquerade
+- Themes: Add protected broadcast for app crash broadcast
+- Themes: Introduce App Crash Intent
+- Themes: Show/hide Substratum overlays
+- Themes: Allow system effect sounds to be themed
+- Themes: Add dynamic theme ShutdownAnimation support
+- Themes: Add dynamic theme BootAnimation support
+- SEPolicy: Allow interfacer to find content_service
+- SEPolicy: Add policy to fix interfacer derp on boot
+- SEPolicy: Allow system_server to set theme_prop
+- SEPolicy: add file and domain trans to interfacer
+- SEPolicy: Add Theme interfacer
+- SEPolicy: Redo interfacer rules
+- SEPolicy: Fix application of bootanimation
+- SEPolicy: Allow interfacer to read and write theme assets
+- SEPolicy: Rename interfacer domain and allow JobService in system_server
+- SEPolicy: Initial policy edits for interfacer to operate rootless
+- SEPolicy: Fix themed sounds
+- SEPolicy: Fix themed boot animation
+- SEPolicy: Introduce sepolicy exceptions for theme assets
+- Framework: fix screenshot and rotation animation
+- Framework: Enable power save config of system apps
+- Add option to hide the navigation bar
+- Add NavBar tile
+- Add Vibrate on plug
+- Add Zen option to refresh switch state on disabled/enabled
+- Add Messaging app to managed provisioning
+- Update headphones statusbar icon
+- Update Substratum to v852
+- Remove some device themes ( get from six center )
+- Less annoying heads up code fixes and improvements
+- Camera: Add feature extensions
+- Camera: Don't throw exceptions when value pairs have spaces
+- Audio: Add support for extended formats
+- Activity: Add an helper to get its handler instance
+- NetworkTraffic: Add paddings
+- Increase Zenmode max hour limit from 12 to 24
+- Optimised hwui rounded corners shader
+- Reintroduce button-backlight (and respective inactivity timeout)
+- InputMethodService: Disable fullscreen keyboard
+- Misc fixes and cleanup
+
+==========================
 =====CHANGELOG v1.3======
 ==========================
 - Update to 8.0.0 r12
