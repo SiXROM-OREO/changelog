@@ -5,6 +5,21 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.5
+- Dont use persist.sys.disable_rescue (might be causing a reboot issue)
+- Add API to get IMS Registration Status based on subId
+- Fix MobileNetworkSettings crash for multi-SIM device
+- Show proper call duration
+- Enable App Ops
+- Rework AppOpsDetails to new AppHeaderController
+- Check AppOps permissions safely
+- Fix for google backup and restore
+- BluetoothAdapter: disable logspew
+- Messaging: Show snackbar instead of toast when deleting conversation
+- Messaging Fix App crashing when storage memory is full
+- Messaging: Swipe right to delete conversation
+- Shamu: Move soundfx to vendor
+
 ### CHANGES v1.4
 - Fix Bluetooth Doze while screen off
 - Fix Notification lights blinking/pulse
