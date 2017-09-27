@@ -5,12 +5,50 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.7
+- Update to 8.0.0 r17
+- Force disable OTA and enable Dev settings for some Google apps
+- Notification lights: use default resources for color on and off
+- Audioservice: Set BT_SCO status
+- Lockscreen bottom shortcuts fixes
+- SystemUI: thread protect keyguard callbacks
+- Recents: allow single tap on app icon to show app info overlay
+- Fully enable system round icons
+- Statusbar UserHandle cleanup
+- SystemUI: add volume tones and toggle back
+- NFC adapter is always available when needed (placeholder)
+- Show NFC tile (placeholder)
+- Add a hide config to left and right shortcut
+- Remove NFC for now
+- Disable Always ON Ambient feature (useless)
+- Telephony: Add backwards compatibility with pre-oreo blobs
+- Fix non-protected broadcast from supersu, qcril and fm
+- Fix AddAccountSettings memory leak
+- Changes to SiXKernel
+- Use correct icon for sim card
+- Move Gestures options to their own menu under System settings
+- Partially revert Remove the Automatic ota check
+- Shamu: Add HotworkEnrollment.apk (testing)
+- Shamu: update sound trigger to support hotsound
+- Shamu: Update sound trigger configuration
+- Shamu: Add sound_trigger mixer info and path
+- Shamu: Add listen platform information file
+- Shamu: Add the missing permission for google now listening everywhere
+- Angler: Increase MAX_FAILED_ATTEMPTS
+- Av: Don't override possible overlayed header
+- Av: stagefright: omx: Don't signal dataspace change on legacy QCOM
+- Av: Allow devices to load custom CameraParameter code
+- Av: audiopolicy: make audio policy extensible
+- Audio: Use tinycompress with kernel headers
+- Audio: Use kernel headers
+- Audio: Use project pathmap
+
 ### CHANGES v1.6
 - Revert Bluetooth wake fix ( causing reboots )
 - Add IME selector notification toggle
 - Add Immersive Recents
 - Add Longpress back to kill app
-- Add AppOps to security preference ( WIP )
+- Add AppOps to security preference
 - Add Force burn in for navbar
 - Allow run services without selinux domain
 - Disable statusbar time refresh when screen off
