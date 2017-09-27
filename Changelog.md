@@ -5,6 +5,17 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.6
+- Revert Bluetooth wake fix ( causing reboots )
+- Add IME selector notification toggle
+- Add Immersive Recents
+- Add Longpress back to kill app
+- Add AppOps to security preference ( WIP )
+- Add Force burn in for navbar
+- Allow run services without selinux domain
+- Disable statusbar time refresh when screen off
+- Misc changes
+
 ### CHANGES v1.5
 - Dont use persist.sys.disable_rescue (might be causing a reboot issue)
 - Add API to get IMS Registration Status based on subId

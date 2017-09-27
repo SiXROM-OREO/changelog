@@ -1,4 +1,17 @@
 ==========================
+=====CHANGELOG v1.6======
+==========================
+- Revert Bluetooth wake fix ( causing reboots )
+- Add IME selector notification toggle
+- Add Immersive Recents
+- Add Longpress back to kill app
+- Add AppOps to security preference ( WIP )
+- Add Force burn in for navbar
+- Allow run services without selinux domain
+- Disable statusbar time refresh when screen off
+- Misc changes
+
+==========================
 =====CHANGELOG v1.5======
 ==========================
 - Dont use persist.sys.disable_rescue (might be causing a reboot issue)
