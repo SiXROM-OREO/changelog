@@ -5,6 +5,32 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.8
+- Add OmniSwitch recents/launcher
+- Add MicroG support for signature spoofing
+- Add Haptic Feedback to tiles
+- Add three-fingers-swipe to screenshot
+- Add Power notifications tuner activity
+- Add membar to recents options
+- Add Force Expanded Notifications
+- Add READ_PHONE_STATE to manifest
+- Add clearPrivateFlags for WindowManager
+- Add Missing Back buttons in CB settings
+- Fix Ambient Wake while screen-off bug 
+- Fix Netflix playback DRM issue
+- Fix weeknight and weekend days arrays
+- Fix NPE with void VelocityTracker
+- Recents: Allow closing empty view via tapping
+- Remove duplicate permissions
+- SettingsProvider: Update icon
+- Bluetooth: Change disconnected icon to be 40% transparent
+- DocumentsUI: Change launcher icon to a nicer image 
+- Increase available volume levels
+- Volumes in dialog same order as in settings
+- Shamu: Update blobs to N6F27M
+- Shamu: Update bluetooth config
+- Enable ro.opa.eligible_device in vendor six
+
 ### CHANGES v1.7
 - Update to 8.0.0 r17
 - Force disable OTA and enable Dev settings for some Google apps
