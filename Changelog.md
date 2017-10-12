@@ -5,6 +5,32 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v1.9
+- Add Power menu animations
+- Add Rotation anim to power and reboot menus
+- Add Powermenu Torch option
+- Add Power menu customizations
+- Show full alarm info
+- Move Gestures to their own menu under System settings
+- Remove extra preference for Auto Brightness
+- Break out status bar icon from extdesk icon
+- Remove extra cell broadcast settings
+- Remove setting for screen timeout under 'Battery'
+- Disable 'model & hardware' dialog
+- Kill log spam in InstalledAppDetails
+- Center empty textview for BT
+- Fix crash while entering in DevelopmentSettings
+- Fix memory leak when used WifiManager
+- Fix Title being different after tapping "Memory used by apps"
+- Fix Settings crash when setting only decimal point to data usage warning
+- Fix PremiumSmsAccess memory leak
+- Fix memory leak in Bluetooth settings
+- Fix Black screen appears after tapping the back key
+- Fix wrong label for Desktop backup password
+- Fix a crash in ChooseLockGenericFragment
+- Fix BT stop searching after rotating screen
+- NFC: Reset Tap&pay summary text if default payment is not set
+
 ### CHANGES v1.8
 - Add OmniSwitch recents/launcher
 - Add MicroG support for signature spoofing
