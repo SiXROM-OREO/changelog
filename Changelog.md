@@ -5,6 +5,18 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v2.0
+- Add Status bar notification ticker
+- Add Increasing ring feature
+- Add Dialer Lookup
+- Add OmniSwitch activity
+- Upstream sixkernel to 3.10.107
+- Changes to sixkernel v2.0
+- Fix NFC
+- Fix empty recents view in multi window mode
+- Changes to Power menu settings
+- Misc cleanup
+
 ### CHANGES v1.9
 - Add Power menu animations
 - Add Rotation anim to power and reboot menus
