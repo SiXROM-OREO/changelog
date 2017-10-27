@@ -5,6 +5,22 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v2.1
+- Add support for overriding default time format value
+- Add Unlimited Google HD Photos
+- Reduce hwui CPU time by using glDrawRangeElements
+- Smoother system bars color transition
+- Halt notification ticker when entering Ambient display
+- Fix FC on Notification ticker
+- Tweaks for faster animation
+- Enable all available quick settings tiles in Settings
+- Remove gap between QS bottom and notification top
+- Remove demo mode / quick settings option
+- Remove setting option for Wallpaper
+- Change encryption preference's summary accordingly
+- Update CalendarGooglePrebuilt
+- Remove WallpaperPickerGooglePrebuilt
+
 ### CHANGES v2.0
 - Add Status bar notification ticker
 - Add Increasing ring feature
