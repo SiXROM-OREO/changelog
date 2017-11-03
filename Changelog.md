@@ -5,6 +5,29 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v2.2
+- Add '24 hours' as an option for snoozing notifications
+- Add Display network name in status bar
+- Add Roboto Condensed Medium to fonts.xml
+- QS: Avoid expand indicators shortly showing on edit
+- Fix NPE with LightBarController dump
+- Vectorized the power menu sound panel selector
+- Switch to Pixel2XL 8.1 sounds
+- NfcTile: use Oreo style
+- Show full/proc/version information
+- Full/proc/version information show without tap
+- Comment out demo mode / quick settings option
+- Enable all available quick settings tiles in Settings
+- Change encryption preference's summary accordingly
+- Check for enabled location in twilight mode
+- Shamu: Move 'no srgb settings' overlay from SettingsProvider to Settings
+- Shamu: Add hw-binder-aware gatekeeper HAL
+- Shamu: Remove ShamuLayout
+- Shamu: Revove factory image and self-extractor support
+- Shamu: Remove HW encryption leftovers
+- Shamu: Set Pixel theme as default
+- Shamu: Changes to sixkernel
+
 ### CHANGES v2.1
 - Add support for overriding default time format value
 - Add Unlimited Google HD Photos
