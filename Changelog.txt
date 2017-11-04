@@ -1,4 +1,11 @@
 ==========================
+=====CHANGELOG v2.3======
+==========================
+- Fix Security pin crashing settings
+- Remove Display network name in statusbar
+- Remove show version information without tap
+
+==========================
 =====CHANGELOG v2.2======
 ==========================
 - Add '24 hours' as an option for snoozing notifications
@@ -10,11 +17,6 @@
 - Switch to Pixel2XL 8.1 sounds
 - NfcTile: use Oreo style
 - Show full/proc/version information
-- Full/proc/version information show without tap
-- Comment out demo mode / quick settings option
-- Enable all available quick settings tiles in Settings
-- Change encryption preference's summary accordingly
-- Check for enabled location in twilight mode
 - Shamu: Move 'no srgb settings' overlay from SettingsProvider to Settings
 - Shamu: Add hw-binder-aware gatekeeper HAL
 - Shamu: Remove ShamuLayout

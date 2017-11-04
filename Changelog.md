@@ -5,6 +5,11 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v2.3
+- Fix Security pin crashing settings
+- Remove Display network name in statusbar
+- Remove show version information without tap
+
 ### CHANGES v2.2
 - Add '24 hours' as an option for snoozing notifications
 - Add Display network name in status bar
@@ -15,11 +20,6 @@
 - Switch to Pixel2XL 8.1 sounds
 - NfcTile: use Oreo style
 - Show full/proc/version information
-- Full/proc/version information show without tap
-- Comment out demo mode / quick settings option
-- Enable all available quick settings tiles in Settings
-- Change encryption preference's summary accordingly
-- Check for enabled location in twilight mode
 - Shamu: Move 'no srgb settings' overlay from SettingsProvider to Settings
 - Shamu: Add hw-binder-aware gatekeeper HAL
 - Shamu: Remove ShamuLayout
