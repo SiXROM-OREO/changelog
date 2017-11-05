@@ -1,4 +1,17 @@
 ==========================
+=====CHANGELOG v2.4======
+==========================
+- Update to 8.0.0 r31 (OPR5.170623.011)
+- MISC CLEAN UP
+- EVERYTHING IS WORKING
+- FINAL BUILD OF SIXROM OREO AND NOUGAT
+- NOTE: DEVELOPMENT WILL BE DEAD AFTER NEW YEARS
+- IM MOVING ON FROM ANDROID SINCE IS NOT A FUN HOBBY ANYMORE
+- THANK YOU EVERYONE THAT HAS SUPPORTED MY STUFF THRU THE YEARS
+- HAPPY HOLIDAYS AND STAY SAFE...
+- OH AND TO ALL MY HATERS, WELL YA KNOW....FUCK YOU!!!
+
+==========================
 =====CHANGELOG v2.3======
 ==========================
 - Fix Security pin crashing settings
