@@ -1,4 +1,49 @@
 ==========================
+=====CHANGELOG v2.5======
+==========================
+- Add Busybox
+- Add Battery Bar
+- Add Poor man battery style tweaks
+- Stop showing Heads-Up notifications when selected applications is on top
+- Fix Lockscreen crash on devices without FP
+- Fix NPE when AOSP ambient display preference is removed
+- Fix SysUI fc on rotation
+- Fix Wrong actionbar title sticking around after exit
+- Fix Battery tile to show charging state
+- Fix Time does not change after rotating device
+- Fix Wrong switch state set in DevelopmentSettings
+- Fix Wi-Fi list adds same AP repeatedly
+- Fix PrivateVolumeSettings being launched repeatedly
+- Fix Hide Substratum package filter
+- Fix Refresh payment preference while resume
+- Fix Navbar media arrows code
+- Fix Navbar keyboard cursors
+- Fix Security settings FC
+- Fix Category with no titles in settings
+- Fix Settings force close in monkey test
+- Hide the "show/hide overlays" when no overlay installed
+- Use separate icon for flashlight power usage
+- Set title for empty category in lang and input
+- Launcher3: Cleanup PredictiveApps implementation
+- Launcher3: Top widget toggle fixes and improvements
+- Launcher3: Allow to put shortcuts in the top area if top widget is removed
+- Launcher3: Go straight to home when exiting from launcher settings
+- Launcher3: Hide apps menu: save on app check/uncheck
+- Launcher3: Suppress a IllegalStateException crash
+- Launcher3: Materialize icons
+- Launcher3: Widget resizing
+- Launcher3: Fix top widget hide
+- Launcher3: Checks for available OmniJaws
+- Launcher3: Short press on empy weather should refresh
+- Launcher3: Integrate Hidden apps option into Settings
+- Launcher3: Add config to place search bar above or below hotseat
+- Launcher3: Add config to show current day in top widget
+- Launcher3: Add display period config for events
+- Launcher3: Add bottom search bar
+- Update Substratum to v912
+- Misc Clean up
+
+==========================
 =====CHANGELOG v2.4======
 ==========================
 - Update to 8.0.0 r31 (OPR5.170623.011)
