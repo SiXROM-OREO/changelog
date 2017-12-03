@@ -5,6 +5,10 @@
 ### SiXROM is made for me, with just what i find to be usefull...NO FEATURE REQUESTS.
 ### Thank You and Enjoy!!!
 
+### CHANGES v2.6 INTERNAL
+- Shamu: Upstream Kernel to 108
+- Shamu: Change kernel for BL4CKB1RD-v4.0
+
 ### CHANGES v2.5 INTERNAL
 - Add Busybox
 - Add Battery Bar

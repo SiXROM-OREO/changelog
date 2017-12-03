@@ -1,4 +1,10 @@
 ==========================
+=====CHANGELOG v2.6======
+==========================
+- Shamu: Upstream Kernel to 108
+- Shamu: Change kernel for BL4CKB1RD-v4.0
+
+==========================
 =====CHANGELOG v2.5======
 ==========================
 - Add Busybox
